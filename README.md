@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HopeBestWorld
 - 👀 I’m interested in data visualization, health, and the environment. 
-- 🌱 I’m currently learning Ocaml.
+- 🌱 I’m currently learning Azure.
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me: hmb95@cornell.edu
 - 😄 Pronouns: she/her
